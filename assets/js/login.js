@@ -37,7 +37,7 @@ $(function () {
                 }
                 layer.msg('登录成功!')
                 localStorage.setItem('token', res.token)
-                location.href = '/index.html'
+                location.href = 'C:/Users/14041/Desktop/%E6%B5%8E%E5%8D%97%E5%A4%A7%E4%BA%8B%E4%BB%B6/bigEvents/index.html'
             }
         })
     })
